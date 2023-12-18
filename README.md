@@ -1,4 +1,9 @@
-## VisionQuest
+## VisionQuest  
+**How-to Use**  
+1) Copy Repo  
+2) Replace OpenAI-KEY within *openai_api.py*  
+3) Run  
+
 
 # Overview
 VisionQuest is an AI-powered auto-coaching tool designed to help you achieve your goals by providing guidance and motivation at fixed intervals. Whether you're striving for personal, professional, or wellness objectives, VisionQuest can assist you on your journey. With customizable time intervals (2 minutes, 5 minutes, 10 minutes, or 20 minutes), you can receive the support and encouragement you need at the pace that suits you best.
